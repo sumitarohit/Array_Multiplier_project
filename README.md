@@ -1,1 +1,1 @@
-# Array_Multiplier_project
+# Array_Multiplier_project_Using_Verilog
